@@ -29,6 +29,3 @@ A web-based clone of the iPhone 15 Pro using modern web technologies. This proje
 Contributions and suggestions are welcome!
 
 --- 
-
-This description is concise and covers the key technologies used, providing a good overview for developers interested in contributing or learning from the project.
->>>>>>> fc9e0b5fca4861fcd42db757e013f8b593961391
